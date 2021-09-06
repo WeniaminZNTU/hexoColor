@@ -27,13 +27,14 @@ body > .container > *{
 h1{
   font-size: 4em;
   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  color: black;
+  color: white;
 }
 
 p{
   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 1.3em;
   text-align: center;
+  color: white;
 }
 
 
