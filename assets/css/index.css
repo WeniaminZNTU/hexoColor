@@ -1,0 +1,43 @@
+body{
+  display:flex;
+
+  justify-content: center;
+  align-items: center;
+
+  /* transition: cursor 5s linear 5s 10s; */
+  /* transition-property: cursor;
+  transition-duration: 2s;
+  transition-timing-function: linear;
+  transition-delay: 0s; */
+
+  min-height: 100vh;
+
+  box-sizing: border-box;
+}
+
+
+body > .container > *{
+  
+  padding: 1.5rem;
+}
+/* .container{
+  padding: 1rem;
+} */
+
+h1{
+  font-size: 4em;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: black;
+}
+
+p{
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 1.3em;
+  text-align: center;
+}
+
+
+
+.cursorNone{
+  cursor: none;
+}
